@@ -10,7 +10,7 @@ function Login() {
     username: "",
     password: "",
   });
-  const [isAuthenticated, setAuth] = useState(false);
+  const [isAuthenticated, setAuth] = useState(true);
   const [open, setOpen] = useState(false);
   const handleChange = (event) => {
     setUser({ ...user, [event.target.name]: event.target.value });
