@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pc-components-webapp-frontend/static/css/main.f96bf63d.css",
-    "main.js": "/pc-components-webapp-frontend/static/js/main.8fb65e81.js",
+    "main.js": "/pc-components-webapp-frontend/static/js/main.a3c36cc3.js",
     "static/js/787.be0f0d88.chunk.js": "/pc-components-webapp-frontend/static/js/787.be0f0d88.chunk.js",
     "static/media/roboto-all-300-normal.woff": "/pc-components-webapp-frontend/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
     "static/media/roboto-latin-300-normal.woff2": "/pc-components-webapp-frontend/static/media/roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2",
@@ -13,11 +13,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/pc-components-webapp-frontend/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "index.html": "/pc-components-webapp-frontend/index.html",
     "main.f96bf63d.css.map": "/pc-components-webapp-frontend/static/css/main.f96bf63d.css.map",
-    "main.8fb65e81.js.map": "/pc-components-webapp-frontend/static/js/main.8fb65e81.js.map",
+    "main.a3c36cc3.js.map": "/pc-components-webapp-frontend/static/js/main.a3c36cc3.js.map",
     "787.be0f0d88.chunk.js.map": "/pc-components-webapp-frontend/static/js/787.be0f0d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f96bf63d.css",
-    "static/js/main.8fb65e81.js"
+    "static/js/main.a3c36cc3.js"
   ]
 }
